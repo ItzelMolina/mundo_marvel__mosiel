@@ -1,0 +1,31 @@
+/*** Orden alfabético > clases ***/
+
+.description {
+  align-items: center;
+  background-color: inherit;
+  color: white;
+  display: flex;
+  height: 100%;
+  margin: 0;
+  padding: 1em;
+  position: absolute;
+  width: 100%;
+}
+
+.hero-img {
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-img:hover.description {
+  top: 0;
+}
+
+.main-title {
+  text-align: center;
+}
+
+.thumbnail {
+  display: block;
+  width: 100%;
+}
